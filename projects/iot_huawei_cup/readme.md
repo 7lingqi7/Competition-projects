@@ -49,8 +49,8 @@
 ## 🖼️ 项目展示图
 
 <div style="display: flex; gap: 20px;">
-  <img src="./images/1.png" alt="小程序界面" width="45%" />
-  <img src="./images/2.png" alt="硬件展示" width="45%" />
+  <img src="./images/1.png" alt="" width="45%" />
+  <img src="./images/2.png" alt="" width="45%" />
 </div>
 
 ## 🧩 系统架构图
